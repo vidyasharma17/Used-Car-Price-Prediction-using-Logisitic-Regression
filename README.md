@@ -1,1 +1,1 @@
-# Used-Price-Car-Prediction-using-Logisitic-Regression
+# Used-Car-Price-Prediction-using-Logisitic-Regression
